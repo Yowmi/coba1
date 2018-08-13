@@ -1,0 +1,49 @@
+# coba1
+ini hanya percobaan
+[
+    {
+        "id": "99125",
+        "lat": "-0.9592322602011478",
+        "lng": "100.39638601107765",
+        "title": "sekre / rektorat UPI",
+        "summary": "sekre / rektorat UPI",
+        "has_detail_page": "1",
+        "webpage": "http://upiyptk.ac.id/"
+    },
+    {
+        "id": "1531219273244",
+        "lat": "-0.9593797610201449",
+        "lng": "100.39660595221685",
+        "title": "Gedung D",
+        "summary": "Gedung perkuliahan ",
+        "has_detail_page": "1",
+        "webpage": "http://upiyptk.ac.id/"
+    },
+    {
+        "id": "1531219278292",
+        "lat": "-0.9591330323738987",
+        "lng": "100.39618216319246",
+        "title": "Gedung F",
+        "summary": "Gedung perkuliahan",
+        "has_detail_page": "1",
+        "webpage": "http://upiyptk.ac.id/"
+    },
+    {
+        "id": "1531219278980",
+        "lat": "-0.9595084890024026",
+        "lng": "100.3969640271201",
+        "title": "Gedung B / Labor",
+        "summary": "Gedung dan labor perkuliahan",
+        "has_detail_page": "1",
+        "webpage": "http://upiyptk.ac.id/"
+    },
+    {
+        "id": "1531219279564",
+        "lat": "-0.9594065793501727",
+        "lng": "100.39740927381655",
+        "title": "Gedung A",
+        "summary": "Gedung perkuliahan",
+        "has_detail_page": "1",
+        "webpage": "http://upiyptk.ac.id/"
+    }
+]
